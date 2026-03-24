@@ -5,7 +5,7 @@
 
 # --- Variables ---
 STUDENT_NAME="Prateek Pal"  # Fill in your name
-SOFTWARE_CHOICE="Python : Image Search Engine"  # Fill in your chosen software
+SOFTWARE_CHOICE="  Git  "  # Fill in your chosen software
 
 # --- System Information Collection ---
 # Get the kernel version
