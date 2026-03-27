@@ -1,4 +1,4 @@
-### 📜 **Open Source Software Audit Scripts:** *A collection of 5 Bash scripts for system auditing, package inspection, log analysis, and philosophical reflection.*
+###  **Open Source Software Audit Scripts:** *A collection of 5 Bash scripts for system auditing, package inspection, log analysis, and philosophical reflection.*
 
 **Author:** Prateek Pal  
 **Roll Number:** 24MIP10007  
@@ -7,7 +7,7 @@
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 .
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧰 **Dependencies** All scripts require a **Linux system** with standard GNU core utilities. No additional packages needed.
+##  **Dependencies** All scripts require a **Linux system** with standard GNU core utilities. No additional packages needed.
 
 | Script          | Required Commands                                                                  | Notes                                                                 |
 |-----------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------|
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ **Installation & Setup**
+##  **Installation & Setup**
 
 1. **Clone the repository:**
    ```bash
@@ -49,7 +49,7 @@
 
 ---
 
-## 📋 **Script Descriptions & Usage**
+##  **Script Descriptions & Usage**
 
 ---
 
@@ -168,7 +168,7 @@ independence from proprietary restrictions.
 
 ---
 
-## 🚀 **Quick Start Guide**
+##  **Quick Start Guide**
 
 ```bash
 # 1. Clone and make executable
@@ -182,9 +182,9 @@ chmod +x *.sh
 
 ---
 
-## 📄 **License** This project is licensed under the **GNU GPL v3**.  
+##  **License** This project is licensed under the **GNU GPL v3**.  
 See the [GNU GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.en.html) for details.
 
 ---
 
-**Made with ❤️ by Prateek Pal (24MIP10007)** *Inspired by the principles of software freedom and the resilience of Git.*   
+**Made by Prateek Pal (24MIP10007)** *Inspired by the principles of software freedom and the resilience of Git.*   
