@@ -16,6 +16,7 @@
 ├── disk_auditor.sh        # Disk & Permission Auditor
 ├── log_analyzer.sh        # Log File Analyzer
 ├── manifesto_generator.sh # Open Source Manifesto Generator
+├── screenshots/           # Output screenshots folder
 └── README.md
 ```
 
